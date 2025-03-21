@@ -1,4 +1,4 @@
-## Hi there!! [👋](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+## Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 I am a FullStack Developer and also an Open Source enthusiast. I love tinkering around web development.
 
