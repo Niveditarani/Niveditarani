@@ -10,7 +10,7 @@ I am a FullStack Developer and also an Open Source enthusiast. I love tinkering 
 
 If you want to talk or ask me anything, feel free to connect over [LinkedIn](https://www.linkedin.com/in/nivedita-rani/)
 
-([![Nivedita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niveditarani)](https://github.com/Niveditarani/github-readme-stats))
+[![Nivedita's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Niveditarani&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Niveditarani/github-readme-stats#gh-dark-mode-only)
 <!--
 **Niveditarani/Niveditarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
