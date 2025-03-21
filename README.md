@@ -1,4 +1,4 @@
-## Hi there!! [👋] (https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+## Hi there!! [👋](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 I am a FullStack Developer and also an Open Source enthusiast. I love tinkering around web development.
 
