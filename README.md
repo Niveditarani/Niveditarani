@@ -3,7 +3,9 @@
 I am a FullStack Developer and also an Open Source enthusiast. I love tinkering around web development.
 
 🔭 I’m currently exploring and trying to be active in Open Source.
+
 🎓 Computer Science & Engineering graduate.
+
 💻 Love working with video/ photo-editing tools in my free time.
 
 If you want to talk or ask me anything, feel free to connect over LinkedIn 
