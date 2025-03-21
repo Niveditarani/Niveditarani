@@ -9,6 +9,8 @@ I am a FullStack Developer and also an Open Source enthusiast. I love tinkering 
 💻 Love working with video/ photo-editing tools in my free time.
 
 If you want to talk or ask me anything, feel free to connect over [LinkedIn](https://www.linkedin.com/in/nivedita-rani/)
+
+([![Nivedita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niveditarani)](https://github.com/Niveditarani/github-readme-stats))
 <!--
 **Niveditarani/Niveditarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
