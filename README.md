@@ -1,6 +1,6 @@
 ## Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I am a FullStack Developer and also an Open Source enthusiast. I love tinkering around web development.
+I am a FullStack Developer and also an Open Source enthusiast. I love tinkering around web development and specialize in building web applications using **Next.js**, **React**, **TypeScript**, and **Node.js**.
 
 🔭 I’m currently exploring and trying to be active in Open Source.
 
