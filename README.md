@@ -1,8 +1,10 @@
 ## Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I am a FullStack Developer and also an Open Source enthusiast. I love tinkering around web development and specialize in building web applications using **Next.js**, **React**, **TypeScript**, and **Node.js**.
+I'm a FullStack Developer with a growing focus on AI Engineering — combining my web development expertise with hands-on work in LLMs, embeddings, and intelligent application development.
 
-🔭 I’m currently exploring and trying to be active in Open Source.
+🔭 Currently exploring AI Engineering — building real-world projects using OpenAI, vector databases, and prompt engineering.
+
+🌱 Expanding into Generative AI, semantic search, and AI-powered fullstack apps.
 
 🎓 Computer Science & Engineering graduate.
 
