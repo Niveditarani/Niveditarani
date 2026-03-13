@@ -16,7 +16,7 @@ If you want to talk or ask me anything, feel free to connect over [![email](http
 
 # 🤖 AI Engineering
 Concepts & Skills
-![Next.js]([https://img.shields.io/badge/-Next.js-000?&logo=next.js](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white))
+![Generative AI]([https://img.shields.io/badge/-Next.js-000?&logo=next.js](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white))
 
 
 # 💻 Tech Stack:
