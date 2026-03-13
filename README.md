@@ -15,8 +15,9 @@ If you want to talk or ask me anything, feel free to connect over [![email](http
 ⚡ May the code be with You!!
 
 # 🤖 AI Engineering
-Concepts & Skills
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+# Concepts & Skills
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white) ![PROMPT ENGINEERING](https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=for-the-badge&logo=openai&logoColor=white) ![OPENAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white) ![FUNCTION CALLING](https://img.shields.io/badge/Function%20Calling-0081A7?style=for-the-badge&logo=openai&logoColor=white) ![EMBEDDINGS](https://img.shields.io/badge/Embeddings-6A0DAD?style=for-the-badge&logo=openai&logoColor=white) ![CHROMADB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white) ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-0052CC?style=for-the-badge&logo=databricks&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-20BEFF?style=for-the-badge&logo=python&logoColor=white) ![AI ETHICS](https://img.shields.io/badge/AI%20Ethics-2E8B57?style=for-the-badge&logo=openai&logoColor=white)
 
 
 # 💻 Tech Stack:
